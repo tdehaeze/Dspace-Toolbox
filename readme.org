@@ -6,4 +6,5 @@ You just have to add the src folder to the matlab path.
 
 * How to use the functions?
 
+Please, have a look at the demo folder to see how to used the functions.
 
